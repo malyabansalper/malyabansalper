@@ -3,7 +3,7 @@
 ![Web Developer](https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U)
 
 
-Skills: EXPRESS JS / MONGO DB /REACT / JS / HTML / CSS / C# 
+Skills: NODE JS / EXPRESS JS / MONGO DB /REACT / JS / HTML / CSS / C# 
 
 - 🔭 I’m currently working on my curosity 
 - 🌱 I’m currently learning to code 
