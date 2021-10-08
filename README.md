@@ -1,6 +1,7 @@
-### Hi there 👋,                                               I am Malya Bansal
-#### Web Developer
-![Web Developer](https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U)
+### Hey there 👋
+#### Just Githubing!
+<!-- ![Web Developer](https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U) -->
+<a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="https://drive.google.com/uc?export=view&id=<FILEID>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 Skills: EXPRESS JS / MONGO DB /REACT / JS / HTML / CSS
 
