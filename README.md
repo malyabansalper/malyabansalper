@@ -1,7 +1,7 @@
 ### Hey there 👋
 #### Just Githubing!
-<!-- ![Web Developer](https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U) -->
-<a href="https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U"><img src="https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+![Web Developer](https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U)
+
 
 Skills: EXPRESS JS / MONGO DB /REACT / JS / HTML / CSS / C# 
 
