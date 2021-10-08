@@ -1,6 +1,6 @@
 ### Hi there 👋,                                               I am Malya Bansal
 #### Web Developer
-![Web Developer](https://drive.google.com/file/d/1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U/view?usp=sharing)
+![Web Developer](https://drive.google.com/file/d/1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U/view?usp=sharing/to/img.png)
 
 
 Skills: EXPRESS JS / MONGO DB /REACT / JS / HTML / CSS
