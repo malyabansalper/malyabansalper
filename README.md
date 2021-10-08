@@ -1,6 +1,7 @@
 ### Hey there 👋
 #### Just Githubing!
-![Web Developer](https://drive.google.com/uc?export=view&id=1YRn2DBu8-RzNcdkbRzMgv4c9zlarmN8U)
+![Web Developer](https://drive.google.com/uc?export=view&id=1q0nRwy1aTxZDwcQVUn5h2XTF1Nu5kkmK)
+
 
 
 Skills: NODE JS / EXPRESS JS / MONGO DB /REACT / JS / HTML / CSS / C# 
