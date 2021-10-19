@@ -1,4 +1,3 @@
-<div align="center">
 ### Hey there 👋
 #### Just Githubing?
 ![Web Developer](https://drive.google.com/uc?export=view&id=1q0nRwy1aTxZDwcQVUn5h2XTF1Nu5kkmK)
@@ -33,8 +32,8 @@
 
 
 ## Connect with me  
-
- <a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank">
+<div align="center">
+<a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/malyabansalper" target="_blank">
