@@ -61,6 +61,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=malyabansalper&show_icons=true"></img>
 </div>
 
-<!-- <div align="center">
+<div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div> -->
