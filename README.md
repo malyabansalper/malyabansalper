@@ -33,7 +33,7 @@
 
 ## Connect with me
 <div text-align="centre>
-<a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank">
+                 <a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/malyabansalper" target="_blank">
@@ -44,7 +44,7 @@
 </a>
  <a href="https://stackoverflow.com/users/14226308/malya-bansal" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> 
+</a> <br>
  <a href="https://dev.to/malyabansal53" target="_blank">
   <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?&style=for-the-badge&logo=Dev&logoColor=black alt=Dev style=" margin-top:0px; height:40px" />
  </a>
