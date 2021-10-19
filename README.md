@@ -35,7 +35,7 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='30'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='30'></a> 
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malyabansalper&layout=compact"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=malyabansalper&show_icons=true"></img>
 </div>
