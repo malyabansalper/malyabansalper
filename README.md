@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on a fullstack app 🤔
 - 🌱 I’m currently working on improving myself 🖥
 - 💻 I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-- 💬 Ask me about React 👩🏻‍💻
+- 💬 Ask me about Code 👩🏻‍💻
 - 📫 How to reach me: <a href="malyabansalper@gmail.com">Mail Please</a> ✉️
 - 😄 Pronouns: She/her 👧🏼
 - ⚡ Fun fact: I love to read fiction 📚
