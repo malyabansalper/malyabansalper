@@ -48,7 +48,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/malyabansal53" target="_blank">
-  <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?&style=for-the-badge&logo=Dev&logoColor=black alt=Dev style=" margin-bottom:5px; height:45px" />
+  <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?&style=for-the-badge&logo=Dev&logoColor=black alt=Dev style=" margin-bottom:0px; height:45px" />
  </a>
 
 </div>
