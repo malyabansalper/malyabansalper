@@ -7,8 +7,8 @@
 Skills: NODE JS / EXPRESS JS / MONGO DB /REACT / JS / HTML / CSS / C# 
 
 - 🔭 I’m currently working on my curosity 🤔
-- 🌱 I’m currently learning to code 💻
-- 💬 Ask me about React 
+- 🌱 I’m currently learning to code 👩🏻‍💻
+- 💬 Ask me about React 💻
 - 📫 How to reach me: <a href="malyabansalper@gmail.com">Mail Please</a> ✉️
 - 😄 Pronouns: She/her 👧🏼
 - ⚡ Fun fact: I love to read fiction 📚
