@@ -31,26 +31,32 @@
 - ⚡ Fun fact: I love to read fiction 📚
 
 
-## Connect with me
-<div align="centre"><a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<!--  <a href="https://dev.to/malyabansal53" target="_blank">
+  <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?&style=for-the-badge&logo=Dev&logoColor=black alt=Dev style=" margin-top:0px; height:40px" />
+ </a> -->
+
+
+
+ ## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/malyabansalper" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/BansalMalya" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
- <a href="https://stackoverflow.com/users/14226308/malya-bansal" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> 
-<!--  <a href="https://dev.to/malyabansal53" target="_blank">
-  <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?&style=for-the-badge&logo=Dev&logoColor=black alt=Dev style=" margin-top:0px; height:40px" />
- </a> -->
-
-  </div>
-
-
-
  
+ 
+
+<a href="https://stackoverflow.com/users/14226308/malya-bansal" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+
+
+</div>
  
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='30'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='30'></a> 
 
