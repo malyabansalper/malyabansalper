@@ -32,7 +32,7 @@
 
 
 ## Connect with me
-<div align="centre">
+<div text-align="centre>
 <a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -48,8 +48,8 @@
  <a href="https://dev.to/malyabansal53" target="_blank">
   <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?&style=for-the-badge&logo=Dev&logoColor=black alt=Dev style=" margin-top:0px; height:40px" />
  </a>
- 
-</div>
+ </div>
+
 
 
  
