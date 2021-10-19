@@ -54,5 +54,5 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/malyabansalper/malyabansalper/blob/master/github-user-contribution.svg"></img>
+<img src="https://github.com/malyabansalper"></img>
 </div>
