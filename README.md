@@ -52,3 +52,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malyabansalper&layout=compact"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=malyabansalper&show_icons=true"></img>
 </div>
+
+<div align="center">
+<img src="https://img.shields.io/github/followers/malyabansalper.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/malyabansalper"></img>
+</div>
