@@ -36,5 +36,5 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malyabansalper&layout=compact"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=nishant-bhosale&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=malyabansalper&show_icons=true"></img>
 </div>
