@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I love to read fiction 📚
 
  ## Lets Connect!  
-<div align="center" >
+<p align="center" >
  <a href="https://www.linkedin.com/in/bansalmalya53/" target="_blank" style="text-decoration: none";>
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; " />
 </a>
@@ -42,16 +42,15 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://stackoverflow.com/users/14226308/malya-bansal" target="_blank" style="text-decoration: none";>
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px; " />
-</a>
- <br>
+<a href="https://stackoverflow.com/users/14226308/malya-bansal" target="_blank" style="text-decoration: none;">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a><br>
  
-<a href="https://dev.to/malyabansal53" target="_blank" style="text-decoration: none";>
+<a href="https://dev.to/malyabansal53" target="_blank" style="text-decoration: none;">
   <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?&style=for-the-badge&logo=Dev&logoColor=black alt=Dev style=" margin-top:5px; height:45px" />
  </a>
 
-</div>
+</p>
 
  
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='30'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='30'></a> 
@@ -64,3 +63,4 @@
 <!-- <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>  -->
+
