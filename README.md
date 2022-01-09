@@ -26,7 +26,7 @@
 - 🌱 I’m currently working on improving myself 🖥
 - 💻 I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 - 💬 Lets talk about the Tech World 👩🏻‍💻
-- 📫 How to reach me: <a href="malyabansalper@gmail.com">Mail Please</a> ✉️
+- 📫 How to reach me: <a href="mailto:malyabansalper@gmail.com">Mail Please</a> ✉️
 - 😄 Pronouns: She/her 👧🏼
 - ⚡ Fun fact: I love to read fiction 📚
 
