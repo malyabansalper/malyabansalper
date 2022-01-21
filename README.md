@@ -52,7 +52,7 @@
 
 </p>
 
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/malyabansalper/malyabansalper/master/coding.gif" width="400" height="280" />
+<!-- <img align="right" alt="coding" src="https://raw.githubusercontent.com/malyabansalper/malyabansalper/master/coding.gif" width="400" height="280" /> -->
 
  <div align="centre">
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='30'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='30'></a> 
